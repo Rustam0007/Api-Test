@@ -1,0 +1,2 @@
+SMS_FEE = 11
+SERVICE_FEE = 22
